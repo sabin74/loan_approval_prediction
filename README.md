@@ -41,7 +41,7 @@ This project predicts whether a loan application will be approved or not using m
    Tuned Random Forest using RandomizedSearchCV for better performance.
 
 8. **Model Evaluation**  
-   Evaluated models using accuracy, classification report, and ROC curve.
+   Evaluated models using accuracy, classification report.
 
 9. **Prediction on Test Data**  
    Processed test dataset similarly and predicted loan approval status.
